@@ -5,11 +5,8 @@ A simple 2D side-scrolling game where you play as a wizard shooting fireballs at
 Features
 
 Player movement and fireball attacks
-
 Enemy spawn and collision detection
-
 Score tracking
+Fireball sound and impact sound
 
-Tech
-
-Go
+Technology used: Go, Ebitengine, Free/open source sprites and sound effects
